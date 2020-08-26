@@ -3,13 +3,13 @@ UI Clone - LinkedIn Feed
 </h1>
 
 <p align="center">Responsive LinkedIn Feed UI clone for study purposes.</p>
-<p align="center">Click <a href="https://rocketseat-clone-linkedin.netlify.app/">here</a> to live preview.</p>
+<p align="center">Click <a href="https://rocketseat-clone-linkedin.netlify.app/" target="_blank">here</a> to live preview.</p>
 
 <hr>
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/36550713?v=4" width="75px;" target="_blank"/>](https://github.com/joesilfe)
+[<img src="https://avatars3.githubusercontent.com/u/36550713?v=4" width="75px;" alt="avatar"/>](https://github.com/joesilfe)
 
 [Joel Silva](https://github.com/joesilfe)
 
