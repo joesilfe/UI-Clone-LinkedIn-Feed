@@ -9,7 +9,7 @@ UI Clone - LinkedIn Feed
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/joesilfe)
+[<img src="https://avatars3.githubusercontent.com/u/36550713?v=4" width="75px;"/>](https://github.com/joesilfe)
 
 [Joel Silva](https://github.com/joesilfe)
 
